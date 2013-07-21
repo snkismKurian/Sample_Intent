@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">IntentSample1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_activity">画面A</string>
+    <string name="close_activity">このActivityを閉じる</string>
+    <string name="open_B">"画面Bを起動"</string>
+    <string-array name="animals_array">
+        <item >キリン</item>
+        <item >ライオン</item>
+        <item >カバ</item>
+    </string-array>
+
+</resources>
